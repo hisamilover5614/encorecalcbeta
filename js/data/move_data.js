@@ -11955,7 +11955,7 @@ var MOVES_ENC = {
 	"Love or Pain": {
 		type: "Nether",
 		category: "Spread",
-		bp: 65,
+		bp: 70,
 		acc100: true
 	},
 	"Soul Eater": {
