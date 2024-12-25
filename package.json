@@ -1,0 +1,38 @@
+{
+  "name": "tpdp-damage-calc",
+  "private": true,
+  "description": "The unofficial damage calculator for Touhou Puppet Dance Performance, Shard of Dreams",
+  "version": "1.0.2",
+  "scripts": {
+    "test": "eslint --cache ."
+  },
+  "homepage": "http://pokemonshowdown.com/calc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pikachuun/tpdpcalc.git"
+  },
+  "author": {
+    "name": "Choon Iweleth",
+    "email": "pikachuun@gmail.com",
+    "url": ""
+  },
+  "contributors": [
+    { //original author
+      "name": "Guangcong Luo",
+      "email": "zarel@zarel.com",
+      "url": "http://guangcongluo.com"
+    },
+    {
+      "name": "Mathieu Dias-Martins",
+      "email": "marty@hisemail.com"
+    },
+    {
+      "name": "Austin Couturier",
+      "email": "austincouturier@icloud.com"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  }
+}
