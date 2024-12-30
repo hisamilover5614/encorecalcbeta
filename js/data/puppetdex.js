@@ -14519,19 +14519,18 @@ var PUPPETDEX_ENC = {
 		c: 80,
 		ab: "Disturber"
 	},
-	"Assist Noroiko": {
-		t1: "Sound",
-		t2: "Nether",
-		bs: {hp: 120, fa: 100, fd: 60, sa: 75, sd: 90, sp: 35},
+	"Power Noroiko": {
+		t1: "Nether",
+		bs: {hp: 75, fa: 40, fd: 60, sa: 150, sd: 100, sp: 55},
 		c: 80,
-		ab: "Curse Return"
+		ab: "Appeased Spirit"
 	},
 	"Extra Noroiko": {
-		t1: "Wind",
-		t2: "Fire",
-		bs: {hp: 80, fa: 60, fd: 70, sa: 100, sd: 100, sp: 70},
+		t1: "Nether",
+		t2: "Warped",
+		bs: {hp: 130, fa: 45, fd: 110, sa: 45, sd: 110, sp: 40},
 		c: 80,
-		ab: "Supine"
+		ab: "Inverse Toxin"
 	},
 	"Normal Meira": {
 		t1: "Steel",
@@ -14568,24 +14567,24 @@ var PUPPETDEX_ENC = {
 		ab: "Absorbent"
 	},
 	"Speed Matenshi": {
-		t1: "Dream",
-		t2: "Dark",
-		bs: {hp: 90, fa: 30, fd: 80, sa: 110, sd: 70, sp: 110},
+		t1: "Light",
+		bs: {hp: 90, fa: 30, fd: 80, sa: 105, sd: 70, sp: 105},
 		c: 90,
-		ab: "Infinite Changes"
+		ab: "Aurora Grace"
 	},
 	"Power Matenshi": {
-		t1: "Dream",
-		t2: "Light",
-		bs: {hp: 65, fa: 110, fd: 60, sa: 100, sd: 65, sp: 90},
+		t1: "Dark",
+		t2: "Water",
+		bs: {hp: 80, fa: 110, fd: 110, sa: 55, sd: 95, sp: 30},
 		c: 90,
-		ab: "Strategist"
+		ab: "Negative Aura"
 	},
 	"Extra Matenshi": {
-		t1: "Dream",
-		bs: {hp: 115, fa: 80, fd: 75, sa: 60, sd: 80, sp: 80},
+		t1: "Light",
+		t2: "Dark",
+		bs: {hp: 95, fa: 35, fd: 75, sa: 90, sd: 90, sp: 95},
 		c: 90,
-		ab: "Unique Shield"
+		ab: "Skilled Hand"
 	},
 	"Normal Ellen": {
 		t1: "Illusion",
@@ -14634,7 +14633,7 @@ var PUPPETDEX_ENC = {
 	"Extra Kotohime": {
 		t1: "Void",
 		t2: "Poison",
-		bs: {hp: 100, fa: 30, fd: 90, sa: 100, sd: 90, sp: 70},
+		bs: {hp: 110, fa: 20, fd: 90, sa: 100, sd: 90, sp: 70},
 		c: 80,
 		ab: "Niche"
 	},
@@ -14866,21 +14865,21 @@ var PUPPETDEX_ENC = {
 	"Power Hikariko": {
 		t1: "Nature",
 		t2: "Light",
-		bs: {hp: 90, fa: 120, fd: 95, sa: 40, sd: 115, sp: 30},
+		bs: {hp: 90, fa: 120, fd: 95, sa: 30, sd: 115, sp: 30},
 		c: 80,
 		ab: "Glamorous"
 	},
 	"Defense Hikariko": {
-		t1: "Nature",
+		t1: "Light",
 		t2: "Sound",
-		bs: {hp: 110, fa: 30, fd: 85, sa: 90, sd: 120, sp: 55},
+		bs: {hp: 110, fa: 20, fd: 85, sa: 90, sd: 120, sp: 55},
 		c: 80,
 		ab: "Glamorous"
 	},
 	"Extra Hikariko": {
 		t1: "Water",
 		t2: "Wind",
-		bs: {hp: 55, fa: 75, fd: 75, sa: 135, sd: 75, sp: 75},
+		bs: {hp: 55, fa: 65, fd: 75, sa: 135, sd: 75, sp: 75},
 		c: 80,
 		ab: "Strategist"
 	},
@@ -14976,21 +14975,21 @@ var PUPPETDEX_ENC = {
 	},
 	"Speed Wayousei": {
 		t1: "Electric",
-		bs: {hp: 70, fa: 60, fd: 50, sa: 95, sd: 50, sp: 145},
+		bs: {hp: 70, fa: 50, fd: 80, sa: 115, sd: 50, sp: 115},
 		c: 80,
 		ab: "Duel"
 	},
 	"Defense Wayousei": {
 		t1: "Electric",
-		t2: "Wind",
-		bs: {hp: 85, fa: 60, fd: 105, sa: 65, sd: 110, sp: 45},
+		t2: "Fighting",
+		bs: {hp: 75, fa: 50, fd: 125, sa: 75, sd: 100, sp: 55},
 		c: 80,
-		ab: "Jamming"
+		ab: "Duel"
 	},
 	"Extra Wayousei": {
 		t1: "Fire",
 		t2: "Light",
-		bs: {hp: 80, fa: 100, fd: 60, sa: 50, sd: 75, sp: 105},
+		bs: {hp: 80, fa: 100, fd: 70, sa: 50, sd: 75, sp: 105},
 		c: 80,
 		ab: "Charge!"
 	},
@@ -15148,10 +15147,10 @@ var PUPPETDEX_ENC = {
 	},
 	"Extra Ayana": {
 		t1: "Void",
-		t2: "Nether",
-		bs: {hp: 90, fa: 110, fd: 80, sa: 30, sd: 80, sp: 90},
+		t2: "Fire",
+		bs: {hp: 100, fa: 75, fd: 100, sa: 85, sd: 80, sp: 40},
 		c: 80,
-		ab: "Inverse Reaction"
+		ab: "Lucky"
 	},
 	"Normal Yumeko": {
 		t1: "Steel",
@@ -15388,7 +15387,7 @@ var PUPPETDEX_ENC = {
 		t2: "Warped",
 		bs: {hp: 75, fa: 80, fd: 70, sa: 130, sd: 100, sp: 70},
 		c: 110,
-		ab: "Unbound"
+		ab: "Skilled Hand"
 	},
 	"Normal Remilia": {
 		t1: "Dark",
@@ -18491,28 +18490,28 @@ var PUPPETDEX_ENC = {
 	"Normal Mizuchi": {
 		t1: "Nether",
 		bs: {hp: 65, fa: 75, fd: 35, sa: 45, sd: 35, sp: 55},
-		c: 120,
+		c: 100,
 		ab: "Free Will"
 	},
 	"Speed Mizuchi": {
 		t1: "Nether",
 		t2: "Poison",
-		bs: {hp: 90, fa: 85, fd: 75, sa: 115, sd: 95, sp: 110},
-		c: 120,
-		ab: "Infiltration"
+		bs: {hp: 80, fa: 65, fd: 75, sa: 110, sd: 85, sp: 110},
+		c: 100,
+		ab: "Projection"
 	},
 	"Power Mizuchi": {
 		t1: "Nether",
 		t2: "Dark",
-		bs: {hp: 90, fa: 130, fd: 65, sa: 100, sd: 90, sp: 95},
-		c: 120,
+		bs: {hp: 80, fa: 130, fd: 65, sa: 85, sd: 65, sp: 95},
+		c: 100,
 		ab: "Doppelganger"
 	},
 	"Extra Mizuchi": {
 		t1: "Nether",
 		t2: "Illusion",
-		bs: {hp: 90, fa: 100, fd: 100, sa: 95, sd: 90, sp: 95},
-		c: 120,
+		bs: {hp: 90, fa: 75, fd: 100, sa: 70, sd: 90, sp: 95},
+		c: 100,
 		ab: "Doppelganger"
 	},
 	"Normal Biten": {
@@ -18525,21 +18524,21 @@ var PUPPETDEX_ENC = {
 	"Speed Biten": {
 		t1: "Nature",
 		t2: "Fighting",
-		bs: {hp: 70, fa: 110, fd: 70, sa: 55, sd: 85, sp: 135},
+		bs: {hp: 75, fa: 110, fd: 70, sa: 45, sd: 75, sp: 135},
 		c: 100,
-		ab: "Quick Eye"
+		ab: "Western Expanse"
 	},
 	"Power Biten": {
 		t1: "Earth",
 		t2: "Fighting",
-		bs: {hp: 120, fa: 125, fd: 105, sa: 35, sd: 55, sp: 85},
+		bs: {hp: 115, fa: 125, fd: 100, sa: 40, sd: 45, sp: 85},
 		c: 100,
 		ab: "Sand Force"
 	},
 	"Extra Biten": {
 		t1: "Nature",
 		t2: "Sound",
-		bs: {hp: 115, fa: 95, fd: 85, sa: 75, sd: 85, sp: 70},
+		bs: {hp: 100, fa: 95, fd: 85, sa: 75, sd: 85, sp: 70},
 		c: 100,
 		ab: "Up Tempo"
 	},
@@ -18551,21 +18550,21 @@ var PUPPETDEX_ENC = {
 	},
 	"Power Enoko": {
 		t1: "Steel",
-		bs: {hp: 75, fa: 120, fd: 95, sa: 55, sd: 70, sp: 110},
+		bs: {hp: 85, fa: 100, fd: 90, sa: 55, sd: 70, sp: 90},
 		c: 100,
 		ab: "Sniper"
 	},
 	"Defense Enoko": {
 		t1: "Steel",
 		t2: "Fighting",
-		bs: {hp: 100, fa: 55, fd: 75, sa: 110, sd: 130, sp: 55},
+		bs: {hp: 100, fa: 45, fd: 80, sa: 110, sd: 130, sp: 45},
 		c: 100,
 		ab: "Restraint"
 	},
 	"Extra Enoko": {
 		t1: "Dark",
 		t2: "Poison",
-		bs: {hp: 95, fa: 90, fd: 100, sa: 75, sd: 95, sp: 70},
+		bs: {hp: 90, fa: 90, fd: 100, sa: 75, sd: 85, sp: 70},
 		c: 100,
 		ab: "Restraint"
 	},
@@ -18573,28 +18572,28 @@ var PUPPETDEX_ENC = {
 		t1: "Fire",
 		t2: "Poison",
 		bs: {hp: 65, fa: 35, fd: 60, sa: 55, sd: 60, sp: 45},
-		c: 110,
+		c: 100,
 		ab: "Bad Medicine"
 	},
 	"Speed Chiyari": {
 		t1: "Fire",
-		t2: "Poison",
-		bs: {hp: 85, fa: 115, fd: 95, sa: 50, sd: 85, sp: 105},
-		c: 110,
-		ab: "Collectomaniac"
+		t2: "Dark",
+		bs: {hp: 125, fa: 115, fd: 55, sa: 35, sd: 85, sp: 95},
+		c: 100,
+		ab: "Strict Dosage"
 	},
-	"Assist Chiyari": {
+	"Defense Chiyari": {
 		t1: "Fire",
-		bs: {hp: 95, fa: 95, fd: 85, sa: 105, sd: 85, sp: 70},
-		c: 110,
-		ab: "Sutei's Fire"
+		bs: {hp: 150, fa: 110, fd: 95, sa: 90, sd: 45, sp: 25},
+		c: 100,
+		ab: "Bad Medicine"
 	},
 	"Extra Chiyari": {
-		t1: "Poison",
-		t2: "Fighting",
-		bs: {hp: 130, fa: 95, fd: 75, sa: 95, sd: 75, sp: 65},
-		c: 110,
-		ab: "Overcompensate"
+		t1: "Fire",
+		t2: "Water",
+		bs: {hp: 150, fa: 60, fd: 65, sa: 105, sd: 85, sp: 45},
+		c: 100,
+		ab: "Inverse Toxin"
 	},
 	"Normal Hisami": {
 		t1: "Nether",
@@ -18618,9 +18617,9 @@ var PUPPETDEX_ENC = {
 		ab: "Curse Return"
 	},
 	"Extra Hisami": {
-		t1: "Warped",
+		t1: "Illusion",
 		t2: "Nature",
-		bs: {hp: 105, fa: 90, fd: 95, sa: 65, sd: 95, sp: 75},
+		bs: {hp: 105, fa: 95, fd: 95, sa: 55, sd: 95, sp: 80},
 		c: 110,
 		ab: "Anathema"
 	},
@@ -18632,21 +18631,21 @@ var PUPPETDEX_ENC = {
 	},
 	"Power Zanmu": {
 		t1: "Void",
-		bs: {hp: 115, fa: 125, fd: 80, sa: 55, sd: 105, sp: 55},
+		bs: {hp: 115, fa: 125, fd: 105, sa: 55, sd: 95, sp: 55},
 		c: 120,
 		ab: "Fast Talker"
 	},
 	"Defense Zanmu": {
 		t1: "Void",
 		t2: "Dark",
-		bs: {hp: 120, fa: 65, fd: 100, sa: 95, sd: 90, sp: 65},
+		bs: {hp: 120, fa: 65, fd: 105, sa: 95, sd: 100, sp: 65},
 		c: 120,
 		ab: "Known Limits"
 	},
 	"Extra Zanmu": {
 		t1: "Void",
 		t2: "Nether",
-		bs: {hp: 90, fa: 100, fd: 100, sa: 75, sd: 110, sp: 60},
+		bs: {hp: 95, fa: 105, fd: 100, sa: 80, sd: 110, sp: 60},
 		c: 120,
 		ab: "Strategist"
 	},
