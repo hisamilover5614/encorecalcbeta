@@ -373,11 +373,11 @@ function getDamageResult(attacker, defender, move, field, ironWill) {
 		description.moveBP = basePower;
 		break;
 	case "Blow from Calamity":
-		basePower = move.bp * (attacker.status !== ["None", "None"] ? 2 : 1);
+		basePower = move.bp * (!(attacker.status[0] === "None") ? 2 : 1);
 		description.moveBP = basePower;
 		break;
 	case "Love or Pain":
-		basePower = move.bp * (defender.status !== ["None", "None"] ? 2 : 1);
+		basePower = move.bp * (!(defender.status[0] === "None") ? 2 : 1);
 		description.moveBP = basePower;
 		break;
 	case "Final Tribulation":

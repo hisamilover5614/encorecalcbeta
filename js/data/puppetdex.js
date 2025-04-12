@@ -14526,11 +14526,11 @@ var PUPPETDEX_ENC = {
 		ab: "Appeased Spirit"
 	},
 	"Extra Noroiko": {
-		t1: "Nether",
-		t2: "Warped",
-		bs: {hp: 130, fa: 45, fd: 110, sa: 45, sd: 110, sp: 40},
+		t1: "Warped",
+		t2: "Fire",
+		bs: {hp: 95, fa: 85, fd: 105, sa: 30, sd: 75, sp: 90},
 		c: 80,
-		ab: "Inverse Toxin"
+		ab: "Curse Return"
 	},
 	"Normal Meira": {
 		t1: "Steel",
@@ -14837,7 +14837,7 @@ var PUPPETDEX_ENC = {
 	"Power Elly": {
 		t1: "Steel",
 		t2: "Wind",
-		bs: {hp: 70, fa: 120, fd: 90, sa: 80, sd: 75, sp: 65},
+		bs: {hp: 90, fa: 120, fd: 90, sa: 60, sd: 75, sp: 65},
 		c: 100,
 		ab: "Aura Bonus"
 	},
@@ -15330,7 +15330,7 @@ var PUPPETDEX_ENC = {
 	"Extra Koakuma": {
 		t1: "Dark",
 		t2: "Void",
-		bs: {hp: 90, fa: 40, fd: 105, sa: 40, sd: 90, sp: 105},
+		bs: {hp: 90, fa: 105, fd: 40, sa: 90, sd: 40, sp: 105},
 		c: 80,
 		ab: "Wariness"
 	},
@@ -15387,7 +15387,7 @@ var PUPPETDEX_ENC = {
 		t2: "Warped",
 		bs: {hp: 75, fa: 80, fd: 70, sa: 130, sd: 100, sp: 70},
 		c: 110,
-		ab: "Skilled Hand"
+		ab: "Unbound"
 	},
 	"Normal Remilia": {
 		t1: "Dark",
@@ -15846,9 +15846,9 @@ var PUPPETDEX_ENC = {
 	"Assist Wriggle": {
 		t1: "Nature",
 		t2: "Poison",
-		bs: {hp: 70, fa: 70, fd: 90, sa: 40, sd: 105, sp: 105},
+		bs: {hp: 85, fa: 70, fd: 90, sa: 25, sd: 105, sp: 105},
 		c: 80,
-		ab: "Vanishing Act"
+		ab: "Glamorous"
 	},
 	"Extra Wriggle": {
 		t1: "Dark",
@@ -16558,7 +16558,7 @@ var PUPPETDEX_ENC = {
 		t2: "Nature",
 		bs: {hp: 130, fa: 120, fd: 75, sa: 80, sd: 85, sp: 90},
 		c: 120,
-		ab: "Imposing Stance"
+		ab: "Recoil Offset"
 	},
 	"Extra Kanako": {
 		t1: "Wind",
@@ -16739,7 +16739,7 @@ var PUPPETDEX_ENC = {
 	},
 	"Power Yuugi": {
 		t1: "Fighting",
-		bs: {hp: 100, fa: 165, fd: 80, sa: 85, sd: 55, sp: 55},
+		bs: {hp: 100, fa: 165, fd: 75, sa: 85, sd: 55, sp: 60},
 		c: 120,
 		ab: "Warmup"
 	},
@@ -16881,7 +16881,7 @@ var PUPPETDEX_ENC = {
 		t2: "Poison",
 		bs: {hp: 100, fa: 90, fd: 120, sa: 35, sd: 85, sp: 60},
 		c: 90,
-		ab: "Active"
+		ab: "Ascertainment"
 	},
 	"Extra Nazrin": {
 		t1: "Steel",
@@ -17488,9 +17488,10 @@ var PUPPETDEX_ENC = {
 		c: 100,
 		ab: "Usurpation"
 	},
-	"Speed Seija": {
+	"Assist Seija": {
 		t1: "Poison",
-		bs: {hp: 110, fa: 85, fd: 55, sa: 55, sd: 85, sp: 110},
+		t2: "Illusion",
+		bs: {hp: 110, fa: 85, fd: 65, sa: 45, sd: 85, sp: 110},
 		c: 100,
 		ab: "Usurpation"
 	},
@@ -18578,20 +18579,20 @@ var PUPPETDEX_ENC = {
 	"Speed Chiyari": {
 		t1: "Fire",
 		t2: "Dark",
-		bs: {hp: 125, fa: 115, fd: 55, sa: 35, sd: 85, sp: 95},
+		bs: {hp: 125, fa: 115, fd: 85, sa: 35, sd: 55, sp: 95},
 		c: 100,
 		ab: "Strict Dosage"
 	},
 	"Defense Chiyari": {
 		t1: "Fire",
-		bs: {hp: 150, fa: 110, fd: 95, sa: 90, sd: 45, sp: 25},
+		bs: {hp: 150, fa: 105, fd: 95, sa: 90, sd: 45, sp: 25},
 		c: 100,
 		ab: "Bad Medicine"
 	},
 	"Extra Chiyari": {
 		t1: "Fire",
 		t2: "Water",
-		bs: {hp: 150, fa: 60, fd: 65, sa: 105, sd: 85, sp: 45},
+		bs: {hp: 130, fa: 80, fd: 65, sa: 110, sd: 75, sp: 50},
 		c: 100,
 		ab: "Inverse Toxin"
 	},
